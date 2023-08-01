@@ -29,24 +29,35 @@
 <body>  
     <table>
         <tr>
-            <th>Técnico em Celulose e Papel</th>
+            <th>Curso</th>
             <th>Descrição</th>
             <th>Tempo de Experiência</th>
             <th>Nível</th>
         </tr> 
         <tr>
-            <td>JavaScript</td>
-            <td>Linguagem de programação para interatividade em páginas web</td>
+            <td>Técnico em Celulose e Papel</td>
+            <td>objetivo habilitar profissionais em controle dos processos de produção da polpa celulósica, de fabricação</td>
             <td>1 anos</td>
             <td>Intermediário</td>
         </tr>
         <tr>
-            <td>HTML</td>
-            <td>Linguagens de marcação para criação de páginas web</td>
-            <td>2 meses</td>
+            <td>Técnico em Fiação</td>
+            <td>Executa operações básicas do processo produtivo de preparação da fiação de fibras curtas de algodão, fibras artificiais ou sintéticas</td>
+            <td>3 meses</td>
             <td>iniciante</td>
         </tr>
         </tr>
+
+
+        <tr>
+            <td>Técnico em Mecaquímica</td>
+            <td>Realiza análise química quantitativa e qualitativa, mede PH e analisa organismos microbiológicos, matéria-prima e produtos finais na indústria. Participa do desenvolvimento de testes e ensaios com materiais e processos físico-químicos diversos.</td>
+            <td>3 anos</td>
+            <td>Experiente</td>
+        </tr>
+
+
+
     </table>
 </body>
 </html>
